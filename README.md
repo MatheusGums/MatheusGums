@@ -1,5 +1,5 @@
 ## Hello!👋
-##I am Matheus Gums, a beginner coder
+I am Matheus Gums, a beginner coder
 
 ### 🚀 About Me
 - 🎓 Information Systems / CS student
