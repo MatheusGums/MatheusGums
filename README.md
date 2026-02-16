@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hello!👋
+##I am Matheus Gums, a beginner coder
+
+### 🚀 About Me
+- 🎓 Information Systems / CS student
+- 🧠 Foundation in programming logic
+- 🌱 Currently learning web development & Luau
+- 🎮 Interested in game development and systems
+
+## 🛠️ Skills
+- Programming Logic
+- Basic Luau
+- Basic C++ (Arduino)
+
+## 📖 Currently Learning
+- Luau
+- Git & GitHub
+- Backend fundamentals
+
+## 🎯 Goal
+Become a solid software developer focused on performance and clean code.
 
 <!--
 **MatheusGums/MatheusGums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
