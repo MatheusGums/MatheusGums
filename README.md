@@ -1,23 +1,23 @@
 ## Hello!👋
 I am Matheus Gums, a beginner coder
 
-### 🚀 About Me
-- 🎓 Information Systems / CS student
+#### 🚀 About Me
+- 🎓 Information Systems / CS student 
 - 🧠 Foundation in programming logic
 - 🌱 Currently learning web development & Luau
 - 🎮 Interested in game development and systems
 
-## 🛠️ Skills
+#### 🛠️ Skills
 - Programming Logic
 - Basic Luau
 - Basic C++ (Arduino)
 
-## 📖 Currently Learning
+#### 📖 Currently Learning
 - Luau
 - Git & GitHub
 - Backend fundamentals
 
-## 🎯 Goal
+#### 🎯 Goal
 Become a solid software developer focused on performance and clean code.
 
 <!--
